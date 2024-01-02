@@ -2,3 +2,5 @@
 	path = foldernew
 	url = https://github.com/Preetha-M/testing-demorepo.git
         branch = main
+[submodule "C:Userspreetha.c.mohanDocumentsDemoreposfoldernew"]
+	url = https://github.com/Preetha-M/testing-demorepo.git
