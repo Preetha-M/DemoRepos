@@ -1,6 +1,5 @@
-[submodule "foldernew"]
-	path = foldernew
+[submodule "foldernew.xyz"]
+	path = foldernew.xyz
 	url = https://github.com/Preetha-M/testing-demorepo.git
         branch = main
-[submodule "\foldernew"]
-	url = https://github.com/Preetha-M/testing-demorepo.git
+
