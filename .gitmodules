@@ -1,2 +1,3 @@
-[submodule "C:/Users/preetha.c.mohan/AppData/Local/Programs/Git/foldernew"]
-	url = https://github.com/Preetha-M/testing-demorepo
+[submodule "foldernew"]
+	path = foldernew
+	url = https://github.com/Preetha-M/testing-demorepo.git
