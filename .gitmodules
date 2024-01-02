@@ -1,3 +1,4 @@
 [submodule "foldernew"]
 	path = foldernew
 	url = https://github.com/Preetha-M/testing-demorepo.git
+        branch = main
